@@ -40,6 +40,12 @@
 - Curated and cleaned large datasets using Python, implementing techniques such as feature selection, hypothesis testing, and distribution analysis to identify key health indicators influencing diabetes prevalence, leading to more focused intervention strategies.  
 - Employed logistic regression models and statistical methods like ANOVA to assess health data, providing actionable recommendations for diabetes risk management and refining health policy interventions based on patient profiles.
 
+### Wine Quality Analysis
+- Developed predictive models to assess wine quality using advanced machine learning techniques, including Principal Component Analysis (PCA) for dimensionality reduction and regression models (Linear and Lasso), achieving actionable insights into factors influencing quality.
+- Conducted data-driven feature analysis by identifying key chemical properties such as alcohol, volatile acidity, and sulphates with strong correlations to wine quality, visualized through Random Forest feature importance plots and correlation matrices.
+- Optimized model performance through hyperparameter tuning, cross-validation, and comprehensive evaluation metrics (R², MSE), enabling robust predictions and providing winemakers with strategies for improving production quality.
+
+
 ---
 
 ## Professional Development
