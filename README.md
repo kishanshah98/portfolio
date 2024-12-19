@@ -1,4 +1,4 @@
-## Data Science & Analytics Professional - test
+## Data Science & Analytics Professional
 
 --- 
 
