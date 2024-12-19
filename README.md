@@ -1,4 +1,4 @@
-## Data Science & Analytics Professionaldfsfsd
+## Data Science & Analytics Professional
 
 --- 
 
