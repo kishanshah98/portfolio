@@ -1,14 +1,12 @@
-# Data Analytics | Data Science
+# Data Analyst & Scientist
 
-### Programming Languages‬‭ : Python, R, SQL, Javascript,‬‭ HTML, CSS‬
-### Applications/Tools‬‭ : Microsoft Excel (Advanced: Pivot‬‭ Tables, VLOOKUP, INDEX/MATCH, Conditional Formatting), Tableau,‬ Power BI, Jupyter Notebooks, Git/GitHub, MySQL Workbench, Visual Studio Code‬
-### Other Skills‬‭ : Data Science,‬‭ Data Analysis, Data Visualization, Machine Learning, Cloud Platforms (AWS Certified), Agile‬ Methodologies, Data Cleaning and Preprocessing, Statistics, Mathematics, Organization and Time Management‬
+### Technical Skills‬‭ : Python, SQL, R, Microsoft Excel, Tableau, Power BI
 ‭
 ## Education
-M.S., Data Science | Stevens Institute of Technology (May 2025)
-- GPA: 4.0
-B.S., Exercise Science | Rutgers University
-- GPA: 3.8
+- M.S., Data Science | Stevens Institute of Technology (May 2025)
+  - GPA: 4.0
+- B.S., Exercise Science | Rutgers University
+  - GPA: 3.8
 
 ## Work Experience
 **Data Analyst @ Alchemy (December 2022 - January 2023)**
@@ -22,4 +20,7 @@ B.S., Exercise Science | Rutgers University
 
 ## Projects
 Federal Funds Effective Rate Prediction
-- dfsfsadf
+- Designed and implemented a Long Short-Term Memory (LSTM) neural network to predict the Federal Funds Effective‬
+‭ Rate for the next 5 months, capturing complex non-linear dependencies and long-term trends in economic data
+‬‭- Applied advanced deep learning techniques, including data preprocessing, normalization, and model evaluation, to‬‭ optimize LSTM model performance, significantly improving forecasting accuracy compared to traditional ARIMA‬‭ models‬
+‭
