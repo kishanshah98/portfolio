@@ -52,7 +52,7 @@
 - Conducted data-driven feature analysis by identifying key chemical properties such as alcohol, volatile acidity, and sulphates with strong correlations to wine quality, visualized through Random Forest feature importance plots and correlation matrices.
 - Optimized model performance through hyperparameter tuning, cross-validation, and comprehensive evaluation metrics (R², MSE), enabling robust predictions and providing winemakers with strategies for improving production quality.
 
-### NBA Basketball Analysis
+### [NBA Basketball Analysis](https://kishanshah.notion.site/Kishan-Shah-Portfolio-556311b8f78040b4b95bf4f2c07c7346?p=a5ff20e6b52b43f6a8f11b8ddfa0a899&pm=c)
 - Executed complex SQL queries using JOINs and aggregation functions to analyze NBA team performance and player demographics, revealing trends between college attendance and professional success, resulting in actionable insights for fan engagement and team scouting strategies.
 - Optimized database queries and utilized data extraction techniques to generate in-depth reports on player demographics and team dynamics, providing benchmarks for performance comparison and enhancing the understanding of player development over time.
 
