@@ -1,4 +1,4 @@
-# Data Analytics & Science
+# Data Science & Analytics Professional
 
 #### Technical Skills: Python, SQL, R, Microsoft Excel, Tableau, Power BI
 
