@@ -10,11 +10,13 @@
 
 ## Work Experience
 **Data Analyst @ Alchemy (December 2022 - January 2023)**
-- Developed an efficient data preprocessing pipeline, converting unstructured JSON data into structured formats in Excel,‬ reducing data processing time by 50%, and enabling more rapid analysis and insights generation‬
-
--‬‭ Implemented a quality assurance process to improve email classification accuracy to over 90%, driving improved‬ decision-making for email management, with 72% of applicant emails identified as authentic, leading to a more effective‬ recruitment process‬
-
-- Created dynamic dashboards in Excel using functions, tables, and graphs to visualize and showcase key analysis results‬ and insights
+●‬‭ Developed an efficient data preprocessing pipeline, converting unstructured JSON data into structured formats in Excel,‬
+‭ reducing data processing time by 50%, and enabling more rapid analysis and insights generation‬
+●‬‭ Implemented a quality assurance process to improve email classification accuracy to over 90%, driving improved‬
+‭ decision-making for email management, with 72% of applicant emails identified as authentic, leading to a more effective‬
+‭ recruitment process‬
+●‬‭ Created dynamic dashboards in Excel using functions, tables, and graphs to visualize and showcase key analysis results‬
+‭ and insights
 
 **Business Analyst Intern @ Tiger Advisory Group**
 - Improved team collaboration by facilitating cross-functional meetings and streamlining communication between stakeholders and development teams, resulting in more efficient project delivery and a 25% improvement in deliverables‬ accuracy‬
