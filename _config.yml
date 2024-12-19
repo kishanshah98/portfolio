@@ -3,13 +3,3 @@ title: Kishan Shah
 # description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
-
-steps:
-  - name: Checkout code
-    uses: actions/checkout@v3
-
-  - name: Remove `_site` directory
-    run: rm -rf _site
-
-  - name: Build Jekyll site
-    uses: actions/jekyll-build-pages@v1
