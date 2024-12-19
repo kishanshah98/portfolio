@@ -6,9 +6,10 @@
 ---
 
 ## Education
-- **M.S., Data Science | Stevens Institute of Technology (May 2025)**
+
+### - M.S., Data Science | Stevens Institute of Technology (May 2025)
   - GPA: 4.0
-- **B.S., Exercise Science | Rutgers University**
+### - B.S., Exercise Science | Rutgers University
   - GPA: 3.8
 ---
 
