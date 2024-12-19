@@ -1,15 +1,25 @@
 # Data Analytics | Data Science
 
-### Education
-Stevens Institute of Technology, M.S. Data Science
+### Programming Languages‬‭ : Python, R, SQL, Javascript,‬‭ HTML, CSS‬
+### Applications/Tools‬‭ : Microsoft Excel (Advanced: Pivot‬‭ Tables, VLOOKUP, INDEX/MATCH, Conditional Formatting), Tableau,‬ Power BI, Jupyter Notebooks, Git/GitHub, MySQL Workbench, Visual Studio Code‬
+### Other Skills‬‭ : Data Science,‬‭ Data Analysis, Data Visualization, Machine Learning, Cloud Platforms (AWS Certified), Agile‬ Methodologies, Data Cleaning and Preprocessing, Statistics, Mathematics, Organization and Time Management‬
+‭
+## Education
+M.S., Data Science | Stevens Institute of Technology (May 2025)
+- GPA: 4.0
+B.S., Exercise Science | Rutgers University
+- GPA: 3.8
 
-### Work Experience
-Data Analyst @ Alchemy
-- jfdsaljfds
+## Work Experience
+**Data Analyst @ Alchemy (December 2022 - January 2023)**
+- Developed an efficient data preprocessing pipeline, converting unstructured JSON data into structured formats in Excel,‬ reducing data processing time by 50%, and enabling more rapid analysis and insights generation‬
+-‬‭ Implemented a quality assurance process to improve email classification accuracy to over 90%, driving improved‬ decision-making for email management, with 72% of applicant emails identified as authentic, leading to a more effective‬ recruitment process‬
+- Created dynamic dashboards in Excel using functions, tables, and graphs to visualize and showcase key analysis results‬ and insights
 
-Business Analyst Intern @ Tiger Advisory Group
-- asdhfjksdaf
+**Business Analyst Intern @ Tiger Advisory Group**
+- Improved team collaboration by facilitating cross-functional meetings and streamlining communication between stakeholders and development teams, resulting in more efficient project delivery and a 25% improvement in deliverables‬ accuracy‬
+-‬‭ Created an Excel-based tool for tracking client deliverables and project status, improving organization and ensuring‬ timely responses to client requests in a fast-paced environment‬
 
-### Projects
+## Projects
 Federal Funds Effective Rate Prediction
 - dfsfsadf
