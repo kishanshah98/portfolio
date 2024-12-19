@@ -53,12 +53,12 @@
 - Optimized model performance through hyperparameter tuning, cross-validation, and comprehensive evaluation metrics (R², MSE), enabling robust predictions and providing winemakers with strategies for improving production quality.
 
 ### NBA Basketball Analysis
--‬‭ Executed complex SQL queries using JOINs and aggregation functions to analyze NBA team performance and player‬‭ demographics, revealing trends between college attendance and professional success, resulting in actionable insights for‬‭ fan engagement and team scouting strategies‬
--‬‭ Optimized database queries and utilized data extraction techniques to generate in-depth reports on player demographics‬ and team dynamics, providing benchmarks for performance comparison and enhancing the understanding of player‬ development over time‬
+- Executed complex SQL queries using JOINs and aggregation functions to analyze NBA team performance and player demographics, revealing trends between college attendance and professional success, resulting in actionable insights for fan engagement and team scouting strategies.
+- Optimized database queries and utilized data extraction techniques to generate in-depth reports on player demographics and team dynamics, providing benchmarks for performance comparison and enhancing the understanding of player development over time.
 
 ### Movie Recommendation System
-- Developed a movie recommendation system using collaborative filtering, content-based filtering, and matrix factorization, enhancing user experience by tailoring suggestions based on user preferences and item attributes
-- Conducted in-depth data analysis and compared RMSE scores across different techniques, determining that matrix factorization was the most effective method for accurate movie recommendations
+- Developed a movie recommendation system using collaborative filtering, content-based filtering, and matrix factorization, enhancing user experience by tailoring suggestions based on user preferences and item attributes.
+- Conducted in-depth data analysis and compared RMSE scores across different techniques, determining that matrix factorization was the most effective method for accurate movie recommendations.
 
 ---
 
