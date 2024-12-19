@@ -5,15 +5,14 @@
 ---
 
 ## Education
-
-### - M.S., Data Science | Stevens Institute of Technology (May 2025)
-### - B.S., Exercise Science | Rutgers University
+- M.S., Data Science | Stevens Institute of Technology (May 2025)
+- B.S., Exercise Science | Rutgers University
 
 ---
 
 ## Work Experience
 
-### Data Analyst - Contract | Alchemy  
+### Data Analyst | Alchemy  
 *December 2022 - January 2023*  
 - Developed an efficient data preprocessing pipeline, converting unstructured JSON data into structured formats in Excel, reducing data processing time by 50%, and enabling more rapid analysis and insights generation.  
 - Implemented a quality assurance process to improve email classification accuracy to over 90%, driving improved decision-making for email management, with 72% of applicant emails identified as authentic, leading to a more effective recruitment process.  
